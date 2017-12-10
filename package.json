@@ -1,0 +1,30 @@
+{
+  "name": "bookbot",
+  "version": "1.0.0",
+  "description": "Chat with a bot about books and get recs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dillchen/bookswithfriends.git"
+  },
+  "keywords": [
+    "Books",
+    "bot"
+  ],
+  "author": "Dillon Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dillchen/bookswithfriends/issues"
+  },
+  "homepage": "https://github.com/dillchen/bookswithfriends#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
